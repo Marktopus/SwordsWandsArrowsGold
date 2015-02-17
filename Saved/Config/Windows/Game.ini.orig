@@ -1,0 +1,6 @@
+[/Script/UnrealEd.ProjectPackagingSettings]
+BuildConfiguration=PPBC_Shipping
+StagingDirectory=(Path="F:/Users/Mark/Desktop")
+ForDistribution=False
+
+

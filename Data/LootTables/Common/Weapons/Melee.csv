@@ -1,0 +1,2 @@
+ElementNumber,Name,Lore,DexBase,DexVariance,DexScalar,StrBase,StrVariance,StrScalar,IntBase,IntVariance,IntScalar,VitBase,VitVariance,VitScalar,DamageBase,DamageVariance,DamageScalar,AttackSpeedBase,AttackSpeedVariance,AttackSpeedScalar,ArmorBase,ArmorVariance,ArmorScalar,Level,GlobalScalar,ElementVisual
+0,Worst Sword,,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0.5,0

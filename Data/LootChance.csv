@@ -1,0 +1,6 @@
+,Name,Chance,Rarity,LevelVariance,Level
+0,PlasticBag,0.1,0,3,5
+1,Converse,0.1,0,5,1
+2,Hoodie,0.1,0,4,5
+3,Rock,0.1,1,4,6
+4,Fedora,0.1,2,5,10

@@ -1,0 +1,6 @@
+,Name,Lore,Type,DEX,STR,INT,VIT,ArmorPenetration,Damage,DropChance,Level,LevelVariance
+0,Fedora,My Lady,1,-10,-10,-10,0,0,-10,0.4,5,3
+1,Rock,Stone,4,0,2,0,0,1,5,0.6,5,3
+2,Plastic Bag,,1,0,0,0,-20,0,0,0.5,5,3
+3,Converse,,3,5,0,0,0,0,0,0.5,5,3
+4,Hoodie,,2,0,0,0,0,0,0,0.5,5,3

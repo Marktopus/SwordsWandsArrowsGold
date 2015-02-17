@@ -1,0 +1,22 @@
+AbilityName,APCost,AbilityDmg,DmgScalar,Cooldown
+BasicArrow,1,1,1,0.4
+BasicMelee,0.5,1,1,0.4
+BasicMagic,1.5,1,1,0.4
+Ground Slam,1,1,1,0.4
+Def. Stance,1,1,1,0.4
+Stun,1,1,1,0.4
+Dash Attack,1,1,1,0.4
+Slash,1,1,1,0.4
+Last Stand,1,1,1,0.4
+Sniper Shot,1,1,1,0.4
+Piercing Arrow,1,1,1,0.4
+Stun shot,1,1,1,0.4
+Evasive Dash,1,1,1,0.4
+Fan of Arrow,1,1,1,0.4
+Mark Target,1,1,1,0.4
+Bewm Boom,1,1,1,0.4
+AOE,1,1,1,0.4
+Chain Ligthning,1,1,1,0.4
+Recharge Time,1,1,1,0.4
+Heal,1,1,1,0.4
+Haste?,1,1,1,0.4
